@@ -1,0 +1,19 @@
+{
+  "name": "is-it-busy",
+  "version": "1.0.0",
+  "description": "A crowdsourcing app that allows users to report and check the busyness level of various locations.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/timmy-o/is-it-busy.git"
+  },
+  "author": "Tim O'Bryan",
+  "license": "UNLICENSED",
+  "bugs": {
+    "url": "https://github.com/timmy-o/is-it-busy/issues"
+  },
+  "homepage": "https://github.com/timmy-o/is-it-busy#readme"
+}
